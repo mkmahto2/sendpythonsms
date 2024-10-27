@@ -1,0 +1,14 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment and sensitive data files
+.env
+secrets.txt
+
+# Ignore log and temp files
+*.log
+*.tmp
+# Ignore config files with sensitive information
+config.py
+config.json
